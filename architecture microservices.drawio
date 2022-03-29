@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T08:59:52.317Z" agent="5.0 (Windows)" etag="7c1zHuXsonohesoZ50pV" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T09:00:31.689Z" agent="5.0 (Windows)" etag="yWgWCFRXTCYPktjZ1xjJ" version="17.2.4" type="github">
   <diagram id="Vuyk-2e29oqBd6F1tE3K" name="Page-1">
     <mxGraphModel dx="1373" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,13 +19,13 @@
             <mxPoint x="410" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Sg80rZOHdZ85smLCKLu-8" value="Micro service 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Sg80rZOHdZ85smLCKLu-8" value="&lt;div&gt;Micro service 1 &lt;br&gt;&lt;/div&gt;&lt;div&gt;(MS 1)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Sg80rZOHdZ85smLCKLu-9" value="Micro service 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Sg80rZOHdZ85smLCKLu-9" value="&lt;div&gt;Micro service 2&lt;/div&gt;&lt;div&gt;(MS 2)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Sg80rZOHdZ85smLCKLu-10" value="Micro service 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Sg80rZOHdZ85smLCKLu-10" value="&lt;div&gt;Micro service 3&lt;/div&gt;&lt;div&gt;(MS 3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Sg80rZOHdZ85smLCKLu-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Sg80rZOHdZ85smLCKLu-6" target="1Sg80rZOHdZ85smLCKLu-10">
