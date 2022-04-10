@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T07:22:45.505Z" agent="5.0 (Windows)" version="17.4.2" etag="Gm80TfH3cz3iv_ko2x_L" type="github"><diagram id="pNvfPRVyRMBlIW2FQfMe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-10T07:26:33.771Z" agent="5.0 (Windows)" etag="I26enoSHwxZCO7VoCuWD" version="17.4.2" type="github">
+  <diagram id="pNvfPRVyRMBlIW2FQfMe" name="Page-1">
+    <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i-qEufYq4NpEQL3iPZyH-1" value="Préliminaire" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i-qEufYq4NpEQL3iPZyH-2" value="A. Vision de l&#39;architecture " style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i-qEufYq4NpEQL3iPZyH-3" value="B. Architecture du business" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i-qEufYq4NpEQL3iPZyH-5" value="C. Architecture des systèmes d&#39;information" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i-qEufYq4NpEQL3iPZyH-6" value="D. Architecture technologique" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="470" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i-qEufYq4NpEQL3iPZyH-7" value="&lt;div&gt;E. Opportunités et solutions&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="335" y="520" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
