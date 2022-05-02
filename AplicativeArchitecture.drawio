@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T14:30:04.149Z" agent="5.0 (Windows)" etag="nqCHqfYuYfOZzTuFXpwV" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T14:31:57.689Z" agent="5.0 (Windows)" etag="AJkxCSiK30TJd1sl82vh" version="17.5.0" type="github">
   <diagram id="00_8uSY0qCTc1xiecRlY" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="mSyX9yeR8HHX13gMo7Nb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mSyX9yeR8HHX13gMo7Nb-1" target="mSyX9yeR8HHX13gMo7Nb-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSyX9yeR8HHX13gMo7Nb-1" value="Microservice d&#39;enregistrement de session" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mSyX9yeR8HHX13gMo7Nb-1" value="Microservice de gestion de session" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mSyX9yeR8HHX13gMo7Nb-3" value="API passerelle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
