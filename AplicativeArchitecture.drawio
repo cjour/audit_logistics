@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T08:49:27.930Z" agent="5.0 (Windows)" etag="8qI7ZDm3p8Z1XC_Y7_4i" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T08:52:34.889Z" agent="5.0 (Windows)" etag="elD-c1igcNRlyWw-F5i7" version="17.5.0" type="github">
   <diagram id="00_8uSY0qCTc1xiecRlY" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mSyX9yeR8HHX13gMo7Nb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mSyX9yeR8HHX13gMo7Nb-1" target="mSyX9yeR8HHX13gMo7Nb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mSyX9yeR8HHX13gMo7Nb-1" value="Microservice d&#39;enregistrement de session" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mSyX9yeR8HHX13gMo7Nb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mSyX9yeR8HHX13gMo7Nb-2" target="mSyX9yeR8HHX13gMo7Nb-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSyX9yeR8HHX13gMo7Nb-2" value="Microservice de visioconférence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="200" width="200" height="80" as="geometry" />
@@ -33,6 +39,9 @@
             <mxPoint x="390" y="370" as="sourcePoint" />
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mSyX9yeR8HHX13gMo7Nb-10" value="Serveur de base de données pour session" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="445" y="320" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
