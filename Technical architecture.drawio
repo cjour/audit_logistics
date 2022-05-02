@@ -1,59 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T09:21:23.248Z" agent="5.0 (Windows)" etag="zDveetKNqtBpYYekU30g" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T09:21:44.023Z" agent="5.0 (Windows)" etag="mHcMg_gOcwzvw2hzDEN7" version="17.5.0" type="github">
   <diagram id="cRJMM40CJe79zqzZw_mR" name="Page-1">
     <mxGraphModel dx="1422" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-1" value="Microservice de visioconférence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="170" width="230" height="90" as="geometry" />
+          <mxGeometry x="120" y="320" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-2" value="Microservice de gestion de sessions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="160" width="270" height="90" as="geometry" />
+          <mxGeometry x="475" y="320" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-3" value="Serveur de base de données de gestions de sessions" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="505" y="360" width="230" height="180" as="geometry" />
+          <mxGeometry x="537.5" y="450" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CNSOVZ5Ffk4rTk_nyZbC-2" target="CNSOVZ5Ffk4rTk_nyZbC-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="370" as="sourcePoint" />
-            <mxPoint x="440" y="320" as="targetPoint" />
+            <mxPoint x="380" y="530" as="sourcePoint" />
+            <mxPoint x="430" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="161" y="170" as="sourcePoint" />
-            <mxPoint x="161" y="130" as="targetPoint" />
+            <mxPoint x="241" y="320" as="sourcePoint" />
+            <mxPoint x="241" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-9" value="accessSession" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="110" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="619.5" y="160" as="sourcePoint" />
-            <mxPoint x="619.5" y="120" as="targetPoint" />
+            <mxPoint x="609.5" y="320" as="sourcePoint" />
+            <mxPoint x="609.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-12" value="updateSession" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="570" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="560" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="729.5" y="160" as="sourcePoint" />
-            <mxPoint x="729.5" y="120" as="targetPoint" />
+            <mxPoint x="719.5" y="320" as="sourcePoint" />
+            <mxPoint x="719.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-15" value="deleteSession" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="509.5" y="160" as="sourcePoint" />
-            <mxPoint x="509.5" y="120" as="targetPoint" />
+            <mxPoint x="499.5" y="320" as="sourcePoint" />
+            <mxPoint x="499.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-18" value="saveSession" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="460" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="450" y="240" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
