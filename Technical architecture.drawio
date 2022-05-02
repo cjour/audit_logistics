@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T09:41:48.407Z" agent="5.0 (Windows)" etag="gXpxu-h8-6JJR18CchaE" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T09:44:38.880Z" agent="5.0 (Windows)" etag="xqN6Pwvv25p1bxDqcdBL" version="17.5.0" type="github">
   <diagram id="cRJMM40CJe79zqzZw_mR" name="Page-1">
     <mxGraphModel dx="1422" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-1" value="Microservice de visioconférence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="230" height="90" as="geometry" />
+          <mxGeometry x="85" y="320" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-2" value="Microservice de gestion de sessions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="430" height="90" as="geometry" />
@@ -109,10 +109,10 @@
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.896;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="CNSOVZ5Ffk4rTk_nyZbC-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="159.5" y="85" as="sourcePoint" />
-            <mxPoint x="160.44999999999982" y="130" as="targetPoint" />
+            <mxPoint x="162" y="130" as="sourcePoint" />
+            <mxPoint x="162" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
