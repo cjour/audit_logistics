@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T08:28:43.303Z" agent="5.0 (Windows)" etag="mrhCHGP8P82yXYtjI8pD" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T08:33:40.293Z" agent="5.0 (Windows)" etag="JYZKJ38DM5KqRrXo6NMT" version="18.0.2" type="github">
   <diagram id="00_8uSY0qCTc1xiecRlY" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,13 +179,23 @@
           <mxGeometry x="180" y="400" width="580" height="300" as="geometry" />
         </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-40" value="Service de collaboration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-39">
-          <mxGeometry x="420" y="10" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-41" value="" style="swimlane;startSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" width="580" height="390" as="geometry" />
+          <mxGeometry x="420" y="270" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-42" value="Services hérités" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="650" y="10" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EvmF-jl4J4cTao0oqaJv-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="170" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="170" />
+              <mxPoint x="620" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-44" value="" style="swimlane;startSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" width="580" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
