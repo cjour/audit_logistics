@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T08:33:40.293Z" agent="5.0 (Windows)" etag="JYZKJ38DM5KqRrXo6NMT" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T08:44:40.617Z" agent="5.0 (Windows)" etag="fLdmoFROBzOcZdu6t3dK" version="18.0.2" type="github">
   <diagram id="00_8uSY0qCTc1xiecRlY" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-45" value="" style="swimlane;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="500" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-27" value="Serveur de base de données pour visioconférence" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-45">
+          <mxGeometry x="50" y="100" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-22" value="&lt;div&gt;Microservice de &lt;br&gt;&lt;/div&gt;&lt;div&gt;visioconférence&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-45">
+          <mxGeometry x="45" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EvmF-jl4J4cTao0oqaJv-45" source="EvmF-jl4J4cTao0oqaJv-22" target="EvmF-jl4J4cTao0oqaJv-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-47" value="&lt;div&gt;port &lt;br&gt;&lt;/div&gt;&lt;div&gt;8080&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-45">
+          <mxGeometry x="5" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-1" value="Astra client web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -114,20 +129,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EvmF-jl4J4cTao0oqaJv-22" target="EvmF-jl4J4cTao0oqaJv-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-22" value="&lt;div&gt;Microservice de &lt;br&gt;&lt;/div&gt;&lt;div&gt;visioconférence&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-23" value="API passerelle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvmF-jl4J4cTao0oqaJv-23" target="EvmF-jl4J4cTao0oqaJv-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="480" as="sourcePoint" />
-            <mxPoint x="490" y="510" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-25" value="Registre de service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
@@ -138,51 +141,28 @@
             <mxPoint x="310" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-27" value="Serveur de base de données pour visioconférence" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="195" y="600" width="110" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-28" value="&lt;div&gt;Microservice de &lt;br&gt;&lt;/div&gt;&lt;div&gt;chat&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EvmF-jl4J4cTao0oqaJv-23" target="EvmF-jl4J4cTao0oqaJv-28">
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="EvmF-jl4J4cTao0oqaJv-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="440" as="sourcePoint" />
-            <mxPoint x="440" y="390" as="targetPoint" />
+            <mxPoint x="480" y="470" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="EvmF-jl4J4cTao0oqaJv-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="570" as="sourcePoint" />
+            <mxPoint x="450" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-31" value="Serveur de base de données pour chat" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="325" y="600" width="110" height="90" as="geometry" />
+          <mxGeometry x="395" y="600" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-33" value="&lt;div&gt;Microservice d&#39;agenda&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="EvmF-jl4J4cTao0oqaJv-33" source="EvmF-jl4J4cTao0oqaJv-23">
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="EvmF-jl4J4cTao0oqaJv-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="470" as="sourcePoint" />
-            <mxPoint x="570" y="390" as="targetPoint" />
+            <mxPoint x="550" y="470" as="sourcePoint" />
+            <mxPoint x="640" y="390" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="EvmF-jl4J4cTao0oqaJv-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="570" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-36" value="Serveur de base de données pour agenda" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="455" y="600" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-39" value="" style="swimlane;startSize=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="180" y="400" width="580" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-40" value="Service de collaboration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-39">
-          <mxGeometry x="420" y="270" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EvmF-jl4J4cTao0oqaJv-42" value="Services hérités" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="650" y="10" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EvmF-jl4J4cTao0oqaJv-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -195,7 +175,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EvmF-jl4J4cTao0oqaJv-44" value="" style="swimlane;startSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" width="580" height="390" as="geometry" />
+          <mxGeometry x="140" width="620" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-42" value="&lt;div&gt;Infrastructures héritées&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-44">
+          <mxGeometry x="470" y="10" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-46" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvmF-jl4J4cTao0oqaJv-23" target="EvmF-jl4J4cTao0oqaJv-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="470" as="sourcePoint" />
+            <mxPoint x="250" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-56" value="" style="swimlane;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-33" value="&lt;div&gt;Microservice d&#39;agenda&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-56">
+          <mxGeometry x="50" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-36" value="Serveur de base de données pour agenda" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-56">
+          <mxGeometry x="55" y="100" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="EvmF-jl4J4cTao0oqaJv-56" target="EvmF-jl4J4cTao0oqaJv-36" source="EvmF-jl4J4cTao0oqaJv-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-49" value="&lt;div&gt;port &lt;br&gt;&lt;/div&gt;&lt;div&gt;8082&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-56">
+          <mxGeometry x="10" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-55" value="" style="swimlane;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EvmF-jl4J4cTao0oqaJv-48" value="&lt;div&gt;port &lt;br&gt;&lt;/div&gt;&lt;div&gt;8081&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="EvmF-jl4J4cTao0oqaJv-55">
+          <mxGeometry x="8" y="160" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
