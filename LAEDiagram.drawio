@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T12:03:52.077Z" agent="5.0 (Windows)" etag="LkzitOkh22AEH8zRchIC" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T12:10:33.496Z" agent="5.0 (Windows)" etag="M3CcegWOpoTg-1KTTmp3" version="20.2.7" type="github">
   <diagram id="JNVbgqYIRuARaCZmSSz4" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7YNZsPMPIIOZVxPNQjGd-5" value="JAVA Applet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNZsPMPIIOZVxPNQjGd-6" value="JAVA Servlet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNZsPMPIIOZVxPNQjGd-8" value="Base de données" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="60" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNZsPMPIIOZVxPNQjGd-12" value="&lt;div&gt;Serveur &lt;br&gt;&lt;/div&gt;&lt;div&gt;AWS&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
