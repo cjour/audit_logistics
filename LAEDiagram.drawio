@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T11:55:15.701Z" agent="5.0 (Windows)" etag="QreL7nTtsndnzDr4Ncwi" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T11:57:28.641Z" agent="5.0 (Windows)" etag="bXrxbFYy0AzF19N8tIgu" version="20.2.7" type="github">
   <diagram id="JNVbgqYIRuARaCZmSSz4" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7YNZsPMPIIOZVxPNQjGd-1" value="Point d&#39;entrée des services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="110" width="140" height="50" as="geometry" />
+          <mxGeometry x="40" y="130" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7YNZsPMPIIOZVxPNQjGd-2" value="Accéder aux informations des clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="110" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7YNZsPMPIIOZVxPNQjGd-3" value="Modifier les informations des clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNZsPMPIIOZVxPNQjGd-4" value="Rediriger les clients vers un autre service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
