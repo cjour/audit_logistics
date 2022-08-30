@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T13:09:04.110Z" agent="5.0 (Windows)" etag="ABwJb3JYWzK3bBV4deDf" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T13:09:37.307Z" agent="5.0 (Windows)" etag="uoOqx83Ji_-whHD-NV7H" version="20.2.7" type="github">
   <diagram id="JNVbgqYIRuARaCZmSSz4" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="7YNZsPMPIIOZVxPNQjGd-21" value="&lt;div&gt;Service vente, légal,&lt;/div&gt;&lt;div&gt;&amp;nbsp;facturation et client&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="39.5" y="80" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7YNZsPMPIIOZVxPNQjGd-22" value="Vue JS (vue CLI 3)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7YNZsPMPIIOZVxPNQjGd-22" value="&lt;div&gt;Vue JS &lt;br&gt;&lt;/div&gt;&lt;div&gt;(vue CLI 3.2)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="254.5" y="80" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7YNZsPMPIIOZVxPNQjGd-23" value="&lt;div&gt;PHP Symfony (symfony 4)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
