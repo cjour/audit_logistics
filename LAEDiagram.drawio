@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T12:17:51.263Z" agent="5.0 (Windows)" etag="JnARrDQtSnHRcTRgsIb-" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T12:18:36.176Z" agent="5.0 (Windows)" etag="X1kFjwKsdAmsItiOQW6T" version="20.2.7" type="github">
   <diagram id="JNVbgqYIRuARaCZmSSz4" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7YNZsPMPIIOZVxPNQjGd-5" value="JAVA Applet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7YNZsPMPIIOZVxPNQjGd-5" value="JAVA Applet (SE 7)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="80" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7YNZsPMPIIOZVxPNQjGd-6" value="JAVA Servlet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7YNZsPMPIIOZVxPNQjGd-6" value="JAVA Servlet (SE 7)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7YNZsPMPIIOZVxPNQjGd-8" value="Base de données" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
