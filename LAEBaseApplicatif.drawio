@@ -1,39 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T06:50:15.299Z" agent="5.0 (Windows)" etag="T8CncpikebHwfvWYsJ4N" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T06:50:29.207Z" agent="5.0 (Windows)" etag="FZfoHpQaAG5qv-8MbTz5" version="20.3.0" type="github">
   <diagram id="-Jm4Pk95iJd7ZQW0pU1n" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_26GdXSnej8FE8eCVRGA-1" value="Front-end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_26GdXSnej8FE8eCVRGA-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="110" as="sourcePoint" />
-            <mxPoint x="420" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_26GdXSnej8FE8eCVRGA-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="109.5" as="sourcePoint" />
-            <mxPoint x="630" y="109.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_26GdXSnej8FE8eCVRGA-4" value="Back-end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_26GdXSnej8FE8eCVRGA-5" value="Base de données" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="80" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_26GdXSnej8FE8eCVRGA-6" value="Service vente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_26GdXSnej8FE8eCVRGA-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="109.5" as="sourcePoint" />
-            <mxPoint x="230" y="109.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
