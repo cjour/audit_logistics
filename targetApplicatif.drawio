@@ -1,19 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T06:44:39.714Z" agent="5.0 (Windows)" etag="SK4MYT3YhngvmKJMSwbX" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T06:46:29.371Z" agent="5.0 (Windows)" etag="aN3rMzWLxHE73JbT1u9S" version="20.3.0" type="github">
   <diagram id="JNVbgqYIRuARaCZmSSz4" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1QJzfosAHAIt3E12tNbr-1" value="Front-end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1QJzfosAHAIt3E12tNbr-2" value="Back-end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1QJzfosAHAIt3E12tNbr-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="110" as="sourcePoint" />
-            <mxPoint x="320" y="110" as="targetPoint" />
+            <mxPoint x="370" y="110" as="sourcePoint" />
+            <mxPoint x="420" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QJzfosAHAIt3E12tNbr-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="109.5" as="sourcePoint" />
+            <mxPoint x="630" y="109.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QJzfosAHAIt3E12tNbr-5" value="Back-end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1QJzfosAHAIt3E12tNbr-6" value="Base de données" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="80" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1QJzfosAHAIt3E12tNbr-7" value="Service vente, légal, facturation, client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1QJzfosAHAIt3E12tNbr-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="109.5" as="sourcePoint" />
+            <mxPoint x="230" y="109.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
