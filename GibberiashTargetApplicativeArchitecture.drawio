@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T05:32:21.879Z" agent="5.0 (Windows)" version="20.5.3" etag="hyo0iX-UkJ5x06timkvW" type="github"><diagram id="J4lTsCqaWdvs94E4tDBU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-21T05:33:39.782Z" agent="5.0 (Windows)" etag="KXGngpD1g_Ygk9eDpc_k" version="20.5.3" type="github">
+  <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
+    <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wo86FMuEZb9ytW6Cp0ga-1" value="Couche d&#39;interaction le créateur de contenu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wo86FMuEZb9ytW6Cp0ga-2" value="Couche de fonctionnalités" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wo86FMuEZb9ytW6Cp0ga-3" value="Couche des règles de gestion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="300" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
