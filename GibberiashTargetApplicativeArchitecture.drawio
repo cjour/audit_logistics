@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T07:28:52.901Z" agent="5.0 (Windows)" etag="sdCZCCFKRgj1VwTd4Izb" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T07:29:34.838Z" agent="5.0 (Windows)" etag="bEUUDh8tLAqPK_tDOfwv" version="20.5.3" type="github">
   <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
-    <mxGraphModel dx="1673" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,10 +13,13 @@
         <mxCell id="wo86FMuEZb9ytW6Cp0ga-28" value="Processus de diffusion de médias interactifs" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xsgijD-SskbSGqHChYv_-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wo86FMuEZb9ytW6Cp0ga-28" target="wo86FMuEZb9ytW6Cp0ga-19">
+        <mxCell id="xsgijD-SskbSGqHChYv_-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wo86FMuEZb9ytW6Cp0ga-28" target="wo86FMuEZb9ytW6Cp0ga-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="850" as="sourcePoint" />
             <mxPoint x="280" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="719" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xsgijD-SskbSGqHChYv_-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wo86FMuEZb9ytW6Cp0ga-26" target="wo86FMuEZb9ytW6Cp0ga-28">
@@ -35,20 +38,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xsgijD-SskbSGqHChYv_-31" value="Architectures héritées" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="359" y="70" width="760" height="100" as="geometry" />
+          <mxGeometry x="359" y="70" width="741" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xsgijD-SskbSGqHChYv_-32" value="Applicatif de production de documentaire, animations et vidéos de marques / commerciales" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="586.5" y="30" width="532.5" height="40" as="geometry" />
+          <mxGeometry x="567.5" y="30" width="532.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xsgijD-SskbSGqHChYv_-33" value="Processus de production de médias" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xsgijD-SskbSGqHChYv_-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xsgijD-SskbSGqHChYv_-31">
+        <mxCell id="xsgijD-SskbSGqHChYv_-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xsgijD-SskbSGqHChYv_-33" target="xsgijD-SskbSGqHChYv_-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="480.21000000000004" as="sourcePoint" />
             <mxPoint x="360" y="479.4100000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="120" />
+              <mxPoint x="240" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
