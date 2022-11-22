@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2022-11-22T08:14:51.855Z" agent="5.0 (Windows)" etag="0wKYUjtgkk5drlTSs4zT" version="20.5.3" type="github">
+  <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
+    <mxGraphModel dx="2370" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wo86FMuEZb9ytW6Cp0ga-26" value="Gibberish" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-62" value="Architectures data héritées" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="319" y="510" width="741" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-63" value="Processus de production de médias" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-84" value="Architecture data de production de documentaire, animations et vidéos de marques / commerciales" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="460" y="470" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-89" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="661" as="sourcePoint" />
+            <mxPoint x="85" y="661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-90" value="Architectureshéritées" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="95" y="640" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-93" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8kNqF_XKGNWwcD94ysNi-63" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="600" as="sourcePoint" />
+            <mxPoint x="320" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-94" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wo86FMuEZb9ytW6Cp0ga-26" target="8kNqF_XKGNWwcD94ysNi-63" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="600" as="sourcePoint" />
+            <mxPoint x="930" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
