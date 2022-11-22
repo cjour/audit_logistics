@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T06:14:20.931Z" agent="5.0 (Windows)" etag="3RL8vnOzPyh40U_uj0oX" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T06:19:28.706Z" agent="5.0 (Windows)" etag="XwS1LUxWfLB4r6uy8Zmi" version="20.5.3" type="github">
   <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
-    <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,10 +70,10 @@
             <mxPoint x="651" y="489" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo86FMuEZb9ytW6Cp0ga-17" value="Services d&#39;&lt;b&gt;édition&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="wo86FMuEZb9ytW6Cp0ga-17" value="Applicatif d&#39;&lt;b&gt;édition&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="740" y="150" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wo86FMuEZb9ytW6Cp0ga-20" value="Services de &lt;b&gt;diffusion&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="wo86FMuEZb9ytW6Cp0ga-20" value="Applicatif de &lt;b&gt;diffusion&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="960" y="540" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wo86FMuEZb9ytW6Cp0ga-26" value="Gibberish" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
@@ -251,6 +251,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="850" as="sourcePoint" />
             <mxPoint x="280" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsgijD-SskbSGqHChYv_-18" value="Processus hérités" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsgijD-SskbSGqHChYv_-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="51" y="530" as="sourcePoint" />
+            <mxPoint x="121" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="51" y="90" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
