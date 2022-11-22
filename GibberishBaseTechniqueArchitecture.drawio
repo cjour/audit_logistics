@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T08:12:42.096Z" agent="5.0 (Windows)" etag="8HzL10B7T8_tHNK8be4x" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T08:12:52.555Z" agent="5.0 (Windows)" etag="QuQBd8vpY4KNL39khETP" version="20.5.3" type="github">
   <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,13 +25,13 @@
             <mxPoint x="1109" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-62" value="Architectures data héritées" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-62" value="Architectures techniques héritées" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="319" y="510" width="741" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8kNqF_XKGNWwcD94ysNi-63" value="Processus de production de médias" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-84" value="Architecture data de production de documentaire, animations et vidéos de marques / commerciales" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-84" value="Architecture technique de production de documentaire, animations et vidéos de marques / commerciales" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="460" y="470" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8kNqF_XKGNWwcD94ysNi-89" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;strokeWidth=2;" parent="1" edge="1">
