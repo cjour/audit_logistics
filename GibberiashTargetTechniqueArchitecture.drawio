@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T09:11:08.123Z" agent="5.0 (Windows)" etag="6G95CdrVZ8CPWJGKltzE" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T09:18:05.308Z" agent="5.0 (Windows)" etag="hOdjDZRb6f7bw0-D3_-_" version="20.5.3" type="github">
   <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
     <mxGraphModel dx="1778" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="675" width="770" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="279" y="600" width="1211" height="500" as="geometry" />
+          <mxGeometry x="279" y="600" width="971" height="500" as="geometry" />
         </mxCell>
         <mxCell id="8kNqF_XKGNWwcD94ysNi-25" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1010" y="800" width="220" height="280" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="8kNqF_XKGNWwcD94ysNi-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;strokeWidth=3;" parent="8kNqF_XKGNWwcD94ysNi-25" vertex="1">
           <mxGeometry width="220" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-27" value="&lt;div&gt;&lt;b&gt;Spring boot 2.7 + Java 17&lt;br&gt;&lt;/b&gt;(Micro service de gestion d&#39;audio)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="8kNqF_XKGNWwcD94ysNi-25" vertex="1">
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-27" value="&lt;div&gt;&lt;b&gt;Spring boot 2.7 + Java 17&lt;br&gt;&lt;/b&gt;(Micro service de streaming de média)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="8kNqF_XKGNWwcD94ysNi-25" vertex="1">
           <mxGeometry x="21" y="60" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8kNqF_XKGNWwcD94ysNi-28" value="Serveur de base de données de gestion d&#39;audio" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" parent="8kNqF_XKGNWwcD94ysNi-25" vertex="1">
@@ -238,36 +238,6 @@
         <mxCell id="8kNqF_XKGNWwcD94ysNi-24" value="Port 8084" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="8kNqF_XKGNWwcD94ysNi-16" vertex="1">
           <mxGeometry x="10" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-34" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1250" y="800" width="220" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;strokeWidth=3;" parent="8kNqF_XKGNWwcD94ysNi-34" vertex="1">
-          <mxGeometry width="220" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-36" value="&lt;div&gt;&lt;b&gt;Spring boot 2.7 + Java 17&lt;br&gt;&lt;/b&gt;(Micro service de gestion de vidéo)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="8kNqF_XKGNWwcD94ysNi-34" vertex="1">
-          <mxGeometry x="21" y="60" width="185" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-37" value="Serveur de base de données de gestion de vidéo" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" parent="8kNqF_XKGNWwcD94ysNi-34" vertex="1">
-          <mxGeometry x="80" y="140" width="130" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.67;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="8kNqF_XKGNWwcD94ysNi-34" source="8kNqF_XKGNWwcD94ysNi-36" target="8kNqF_XKGNWwcD94ysNi-40" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="146.95000000000005" y="121" as="sourcePoint" />
-            <mxPoint x="148" y="138" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-39" value="API REST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="8kNqF_XKGNWwcD94ysNi-34" vertex="1">
-          <mxGeometry x="56" y="30" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-40" value="&lt;b&gt;Oracle 19&lt;/b&gt; (SQL)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="8kNqF_XKGNWwcD94ysNi-34" vertex="1">
-          <mxGeometry x="110" y="140" width="70" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-41" value="Conteneur Docker" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="8kNqF_XKGNWwcD94ysNi-34" vertex="1">
-          <mxGeometry x="100" y="250" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-42" value="Port 8086" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="8kNqF_XKGNWwcD94ysNi-34" vertex="1">
-          <mxGeometry x="10" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8kNqF_XKGNWwcD94ysNi-44" value="Conteneur Docker" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="320" y="645" width="120" height="30" as="geometry" />
         </mxCell>
@@ -281,10 +251,10 @@
           <mxGeometry x="418" y="465" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-14" value="Architecture technique de diffusion de média interactifs" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="560" width="330" height="40" as="geometry" />
+          <mxGeometry x="920" y="560" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1482.5" y="390" width="130" height="140" as="geometry" />
+          <mxGeometry x="1320" y="410" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="_FSysQC6U6rYsHptcgnh-17">
           <mxGeometry width="130" height="140" as="geometry" />
@@ -298,21 +268,12 @@
             <mxPoint x="1482.499999999999" y="374.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FSysQC6U6rYsHptcgnh-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="_FSysQC6U6rYsHptcgnh-18" source="8kNqF_XKGNWwcD94ysNi-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1548" y="890" as="sourcePoint" />
-            <mxPoint x="1392.5" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1548" y="890" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_FSysQC6U6rYsHptcgnh-22" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=0.237;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="_FSysQC6U6rYsHptcgnh-18" source="8kNqF_XKGNWwcD94ysNi-27">
+        <mxCell id="_FSysQC6U6rYsHptcgnh-22" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeColor=#BA25BA;" edge="1" parent="1" source="8kNqF_XKGNWwcD94ysNi-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1170" y="706.0000000000002" as="sourcePoint" />
-            <mxPoint x="1392.5" y="440" as="targetPoint" />
+            <mxPoint x="1360" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1513" y="710" />
+              <mxPoint x="1360" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -322,14 +283,11 @@
             <mxPoint x="903.5" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FSysQC6U6rYsHptcgnh-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SsCDJ0o37DeABF8u1zy4-1" target="8kNqF_XKGNWwcD94ysNi-39">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="742.5000000000002" y="750" as="sourcePoint" />
-            <mxPoint x="1133.5" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-25" value="Communication Network File System" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="430" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_FSysQC6U6rYsHptcgnh-26" value="HTTP Streaming (HLS)" style="text;html=1;strokeColor=none;fillColor=#FFCCFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="680" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
