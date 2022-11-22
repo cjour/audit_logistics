@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T07:30:43.683Z" agent="5.0 (Windows)" etag="7MILSOcctEhGmCRB4c3A" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T07:31:34.996Z" agent="5.0 (Windows)" etag="ofCYQkwqyLXQmm8aygqp" version="20.5.3" type="github">
   <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
-    <mxGraphModel dx="790" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,12 +256,21 @@
         </mxCell>
         <mxCell id="xsgijD-SskbSGqHChYv_-60" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="215" y="1160" as="sourcePoint" />
-            <mxPoint x="280" y="1160" as="targetPoint" />
+            <mxPoint x="180" y="1121" as="sourcePoint" />
+            <mxPoint x="245" y="1121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xsgijD-SskbSGqHChYv_-61" value="Architectures non héritées" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1139" width="170" height="30" as="geometry" />
+          <mxGeometry x="255" y="1100" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xsgijD-SskbSGqHChYv_-77" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1151" as="sourcePoint" />
+            <mxPoint x="245" y="1151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsgijD-SskbSGqHChYv_-78" value="Architectureshéritées" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1130" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
