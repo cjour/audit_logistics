@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T06:41:20.290Z" agent="5.0 (Windows)" etag="sPD7lxl-AUiOVVVQTLRs" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T06:42:24.005Z" agent="5.0 (Windows)" etag="sgzEFbzd1LA9Be1cT88z" version="20.6.0" type="github">
   <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,6 +288,24 @@
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-26" value="HTTP Streaming (HLS)" style="text;html=1;strokeColor=none;fillColor=#FFCCFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1370" y="680" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd6JmYJ_fGDfYC-bxxAU-2" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="67.5" y="1141" as="sourcePoint" />
+            <mxPoint x="132.5" y="1141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd6JmYJ_fGDfYC-bxxAU-3" value="Architectures non héritées" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="1120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd6JmYJ_fGDfYC-bxxAU-4" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="67.5" y="1171" as="sourcePoint" />
+            <mxPoint x="132.5" y="1171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd6JmYJ_fGDfYC-bxxAU-5" value="Architectureshéritées" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="1150" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
