@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T06:37:41.557Z" agent="5.0 (Windows)" etag="0QTvHFs4bJImMR8tc3y-" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T06:41:20.290Z" agent="5.0 (Windows)" etag="sPD7lxl-AUiOVVVQTLRs" version="20.6.0" type="github">
   <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,13 +254,13 @@
           <mxGeometry x="920" y="560" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-17" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1320" y="410" width="130" height="140" as="geometry" />
+          <mxGeometry x="1320" y="410" width="160.00304347826088" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="_FSysQC6U6rYsHptcgnh-17" vertex="1">
           <mxGeometry width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_FSysQC6U6rYsHptcgnh-19" value="&lt;div&gt;Datacenter pour &lt;br&gt;&lt;/div&gt;&lt;div&gt;média interactifs&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="_FSysQC6U6rYsHptcgnh-17" vertex="1">
-          <mxGeometry x="10.003043478260867" y="51.333333333333336" width="110" height="40" as="geometry" />
+        <mxCell id="_FSysQC6U6rYsHptcgnh-19" value="&lt;div&gt;&lt;b&gt;Solution AWS &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Datacenter pour &lt;br&gt;&lt;/div&gt;&lt;div&gt;média interactifs)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="_FSysQC6U6rYsHptcgnh-17" vertex="1">
+          <mxGeometry x="5.003043478260867" y="41.333333333333336" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-20" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="wo86FMuEZb9ytW6Cp0ga-16" target="_FSysQC6U6rYsHptcgnh-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
