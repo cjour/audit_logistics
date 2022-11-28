@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T06:37:06.880Z" agent="5.0 (Windows)" etag="hEaSxZDBvnZlg6W2enGF" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T06:37:41.557Z" agent="5.0 (Windows)" etag="0QTvHFs4bJImMR8tc3y-" version="20.6.0" type="github">
   <diagram id="J4lTsCqaWdvs94E4tDBU" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="8kNqF_XKGNWwcD94ysNi-27" value="&lt;div&gt;&lt;b&gt;Spring boot 2.7 + Java 17&lt;br&gt;&lt;/b&gt;(Micro service de streaming de média)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="8kNqF_XKGNWwcD94ysNi-25" vertex="1">
           <mxGeometry x="21" y="60" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8kNqF_XKGNWwcD94ysNi-28" value="Serveur de base de données de gestion d&#39;audio" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" parent="8kNqF_XKGNWwcD94ysNi-25" vertex="1">
+        <mxCell id="8kNqF_XKGNWwcD94ysNi-28" value="Serveur de base de données de streaming de média" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" parent="8kNqF_XKGNWwcD94ysNi-25" vertex="1">
           <mxGeometry x="80" y="140" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8kNqF_XKGNWwcD94ysNi-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.67;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="8kNqF_XKGNWwcD94ysNi-25" source="8kNqF_XKGNWwcD94ysNi-27" target="8kNqF_XKGNWwcD94ysNi-31" edge="1">
@@ -247,7 +247,7 @@
         <mxCell id="_FSysQC6U6rYsHptcgnh-10" value="Architecture technique de production de documentaire, d&#39;animation et de vidéos de marques / commerciales " style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="322" y="290" width="620" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_FSysQC6U6rYsHptcgnh-12" value="Client lourd en C++ /C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_FSysQC6U6rYsHptcgnh-12" value="Client lourd en &lt;b&gt;C++ /C&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="418" y="465" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FSysQC6U6rYsHptcgnh-14" value="Architecture technique de diffusion de média interactifs" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#b85450;" parent="1" vertex="1">
