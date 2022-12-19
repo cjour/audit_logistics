@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T07:08:49.259Z" agent="5.0 (Windows)" etag="7h0syNRLHtJZVkmZeh29" version="20.7.4" type="github"><diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">7VtNs6I4FP01Vq/GIgT5WKrv2dNVPSunatYRoqQ6EArix5tfPwkEBYJKVYvoaG86uYGE3HM5uefiG8F5dPieoiT8iwWYjkwjOIzgx8g0gQUt8Z+0fBUWx7QLwyYlgbroZFiSf7EyGsq6JQHOahdyxignSd3oszjGPq/ZUJqyff2yNaP1VRO0wZph6SNaWseTk/0fEvBQ2YHtnQb+xGQTqsXdcocr5P/apGwbqxVjFuNiJELlNGqXWYgCtq+Y4OcIzlPGeNGKDnNMpWNLnxX3Lc6MHreS4ph3ucE2AuSuvLVl2pYVQPSHWcywQ3SrHKEelH+VntmHhONlgnzZ3wv0R3AW8oiKHhDNfOM4UL3jBg3Z4Sn7dXSmKyxrFnOFvSmvQJRsYtHxxfPjVF5AKJ0zytJ8bbj4/DCBc5yqOpL/EyO6C5RXdjjl+FAxKZd8xyzCPP0Sl6hRCBSSKnYtQ8XC/hQHpqsgDCshYEFlRCr6Nse5TyCIhsKhIyZQw2SZjOZwNPV8siY+4oTFmQaT2CuvI1P3WR6VdQcrkwaC9JxYh07VQESCQC4zawuFE/5GE/8q2o7qt0GYX6d20hLSv4+n2RFPuw84rZZXzKYSq4DsRHMjmx8FwGsSEwmvJNKtZDsUEgGJ6AluFN0QpRvZKu4Xj1KZotusgpkM+g2lvoTS59sU/85s8hkTio4zc5zx4+Ot0uZkV5fofutTRT+wLkR/DwHvdA14r4+At6+fKZTkvq8fEOa5g+UqsVw8RhTO/Z4gsME4bgsAVgsAoA8AnDcATtsRfjcAvOsAVJmq6tkAZeHR5925ScyRyJmjw0bm5+MiJTbHckWS4WAq+3J66R9jbMumdJ0ll4kZ96WPwEQih0XSKhcTl1l6FNQCBrSEwlXeFciv12vT92+DvGXUkZ84UEMeGPc67EGHd2/QhHoxNwz9eLzx2zjxHiqhBq4GispldpiyJMGR3OpzpRR3Tag1PAdNqEEbvWqp5I8ooQXIEl10Pv8dv7PTfrPTZvQMm52WpZhXyo7spiAeND09Pv8LIzBsflo6vILAtMKIstRw5LqS1HzBn5JOnW0+nomTUxIqzXsrnDESVwsTqxMZGgINX/JvjKletxKPSpLsHIN1g7seJnYLvV3Li6DnfEynF6OgT4aEXj2HtfToAGDSEh2l8bbhoVcgNdje+uVG+sV2H0m/mG3VyofSL7M76BfXeSj9UuZLFVD+LgqtT5Vn3lWyaBAOKllMvSZ6Tp/I41SV0Y1tTDgi+YE8l4PfiPBHfo9gSfUZyMC8ccSOnywu+tYfzVAYWH+8YHXWbdYPhtUfejno5RAYWH/oFZzlV1ZQmxvJEg2psWPRqqgOTZ0UMiQgSBBjFBWdWpXnjDZ5SDHyufDgBA4lRlwA6wlpmxgpWawWKmYfYgR2qNe8xciNxIhnP5IYgR0KRcP+OsnzDOPie3oDTITGfyg1AvXi0U+ySxHJJDU/VeZ5V0Wi4zioJIF6kUd9FEsoI+qTWPvvhZ4K477VhQbrsPICdijg/N+SWwCaYn9QfQH1cs3rQTCswIB6vaUhMGSJpYusGF34geMTSAnbnbmT+VBSAhjeQ33YgB1qL28tcSMtAUzrocSEXvVpUAJupYAkZcHWL8qzT/PazxY29Ab7nAmgc8fXXnRPf0CTj1X+RAl+/gc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-19T07:39:40.795Z" agent="5.0 (Windows)" etag="sFJp6Cpnj9P_Kv1rWwQY" version="20.7.4" type="github">
+  <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
+    <mxGraphModel dx="1434" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="60da8b9f42644d3a-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#66FF66;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="316" y="405" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-3" value="Spécifications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="316" y="425" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-4" value="&lt;div&gt;Définition du cahier des charges&lt;/div&gt;&lt;div&gt;Définition de l&#39;architecture&lt;/div&gt;&lt;div&gt;Définition du plan de tests&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="316" y="725" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="336" y="485" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="336" y="705" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="406" y="573" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-17" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFC001;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="596" y="405" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-18" value="Développement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="596" y="425" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-19" value="&lt;div&gt;Implémentation de l&#39;architecture.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="596" y="725" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="616" y="485" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-21" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="616" y="705" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-22" value="Architectures &lt;b&gt;conçues selon les besoins&lt;/b&gt; fonctionnels" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#397DAA;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="539" y="545" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="686" y="573" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-24" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFB001;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="876" y="405" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-25" value="Tests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="876" y="425" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-26" value="Implémentation des tests unitaires, d&#39;intégrations et fonctionnels." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="876" y="725" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-27" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="896" y="485" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-28" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="896" y="705" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-29" value="Système implémenté selon &lt;b&gt;les diagrammes d&#39;architectures&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#EF9353;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="813" y="545" width="127" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="966" y="573" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FE9900;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1156" y="405" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-32" value="Livraison" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1156" y="425" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-33" value="Déploiement de l&#39;architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1156" y="725" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-34" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1176" y="485" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-35" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1176" y="705" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-36" value="Système testé selon &lt;b&gt;le plan de tests&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#68B85C;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1099" y="545" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="1246" y="573" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-38" value="Système en &lt;b&gt;production&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BF639A;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1379" y="545" width="115" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
