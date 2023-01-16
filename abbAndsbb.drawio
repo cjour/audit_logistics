@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T08:20:41.324Z" agent="5.0 (Windows)" etag="oW9TUzfWzzxW2EWFWVKX" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T08:29:23.600Z" agent="5.0 (Windows)" etag="P8-HnXrNavVPPLH6HjDI" version="20.8.5" type="github">
   <diagram id="Vuyk-2e29oqBd6F1tE3K" name="Page-1">
     <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="180" y="800" width="690" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1Sg80rZOHdZ85smLCKLu-2" value="API passerelle (gateway)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="330" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Sg80rZOHdZ85smLCKLu-8" value="&lt;div&gt;Micro service gestion des utilisateurs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="710" width="120" height="60" as="geometry" />
@@ -38,16 +38,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Sg80rZOHdZ85smLCKLu-19" value="Serveur de base de données " style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="200" y="820" width="100" height="80" as="geometry" />
+          <mxGeometry x="200" y="815" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Sg80rZOHdZ85smLCKLu-20" value="Serveur de base de données " style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="420" y="820" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Sg80rZOHdZ85smLCKLu-21" value="Serveur de base de données " style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="660" y="830" width="100" height="80" as="geometry" />
+          <mxGeometry x="660" y="820" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Sg80rZOHdZ85smLCKLu-22" value="Front - end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Sg80rZOHdZ85smLCKLu-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1Sg80rZOHdZ85smLCKLu-22" target="1Sg80rZOHdZ85smLCKLu-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,16 +101,22 @@
           <mxGeometry x="300" y="960" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rIjrJX4Dk5kXch5xxkFY-12" value="Angular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rIjrJX4Dk5kXch5xxkFY-13" value="Spring cloud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rIjrJX4Dk5kXch5xxkFY-14" value="Spring boot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rIjrJX4Dk5kXch5xxkFY-15" value="Cloud AWS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="40" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="835" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yyKlO_owRGHJmFKWj0uO-1" value="Spring security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yyKlO_owRGHJmFKWj0uO-2" value="Spring initializr" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="620" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
