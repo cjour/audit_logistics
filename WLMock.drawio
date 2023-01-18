@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T09:14:14.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.8.5" etag="N_A1OcA3kq3HtiEt-eH7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T09:18:04.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.8.5" etag="FI39NeXj_XZiXTIxV2TK" type="github">
   <diagram id="wl2DCxEHudBY5uCN74CR" name="Page-1">
     <mxGraphModel dx="819" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-1" value="SDK TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TRQy9jS9D7n3w-w6WIMg-1" value="Service SDK TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRQy9jS9D7n3w-w6WIMg-2" value="CORE TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="TRQy9jS9D7n3w-w6WIMg-7" value="Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-8" value="SDK TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TRQy9jS9D7n3w-w6WIMg-8" value="Service SDK TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="270" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRQy9jS9D7n3w-w6WIMg-9" value="CORE TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
