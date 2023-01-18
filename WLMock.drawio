@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T09:09:12.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.8.5" etag="vqGZ6FkxXCTM6ScejKkM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T09:13:19.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.8.5" etag="G6HAMsO-cd-KcbzQ-PcC" type="github">
   <diagram id="wl2DCxEHudBY5uCN74CR" name="Page-1">
     <mxGraphModel dx="819" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             <mxPoint x="440" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRQy9jS9D7n3w-w6WIMg-9" target="TRQy9jS9D7n3w-w6WIMg-8">
+        <mxCell id="TRQy9jS9D7n3w-w6WIMg-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRQy9jS9D7n3w-w6WIMg-9" target="TRQy9jS9D7n3w-w6WIMg-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="450" as="sourcePoint" />
             <mxPoint x="420" y="400" as="targetPoint" />
@@ -50,10 +50,22 @@
           <mxGeometry x="330" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TRQy9jS9D7n3w-w6WIMg-13" value="Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="315" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TRQy9jS9D7n3w-w6WIMg-15" value="Interceptor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRQy9jS9D7n3w-w6WIMg-18" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Interceptor catches response and inject the wanted mock object&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="360" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRQy9jS9D7n3w-w6WIMg-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRQy9jS9D7n3w-w6WIMg-15" target="TRQy9jS9D7n3w-w6WIMg-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="300" as="sourcePoint" />
+            <mxPoint x="350" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRQy9jS9D7n3w-w6WIMg-20" value="Mock response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
