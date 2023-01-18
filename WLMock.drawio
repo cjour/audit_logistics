@@ -1,33 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T10:04:37.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.8.5" etag="YCSTLd6qQGQSrH8OF6ll" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T13:09:17.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" version="20.8.5" etag="lQRrxmWkHdIehSMdn5Uw" type="github">
   <diagram id="wl2DCxEHudBY5uCN74CR" name="Page-1">
     <mxGraphModel dx="819" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-1" value="Service SDK TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-2" value="CORE TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRQy9jS9D7n3w-w6WIMg-1" target="TRQy9jS9D7n3w-w6WIMg-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="500" as="sourcePoint" />
-            <mxPoint x="440" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRQy9jS9D7n3w-w6WIMg-2" target="TRQy9jS9D7n3w-w6WIMg-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="310" as="sourcePoint" />
-            <mxPoint x="420" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-6" value="Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="90" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TRQy9jS9D7n3w-w6WIMg-7" value="Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TRQy9jS9D7n3w-w6WIMg-8" value="Service SDK TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="270" width="80" height="40" as="geometry" />
         </mxCell>
