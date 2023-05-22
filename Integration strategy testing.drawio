@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T08:17:24.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="XwkMm7iO6_nbx_vVoS17" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T08:21:28.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="hTVql6zCTthRnCgptNyx" version="21.3.2" type="github">
   <diagram name="Page-1" id="SlkHMPfUKlPncJVQEZnL">
     <mxGraphModel dx="1434" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="N1Jp6rEIVmJ09G3_bsZp-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="90" y="60" width="500" height="400" as="geometry" />
+          <mxGeometry x="140" y="40" width="500" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6nHxhkiDgHESShk4F_iz-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;strokeWidth=2;" parent="N1Jp6rEIVmJ09G3_bsZp-4" vertex="1">
           <mxGeometry y="56" width="500" height="230" as="geometry" />
@@ -87,6 +87,81 @@
             <mxPoint x="220" y="110" as="sourcePoint" />
             <mxPoint x="220" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-7" value="Urgency service" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="284" y="550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-8" value="Hospital service" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="605.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-9" value="Distance calculation service" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="605.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-11" value="Distance calculation repository" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="695.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-12" value="Hospital repository" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="695.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N1Jp6rEIVmJ09G3_bsZp-8" target="N1Jp6rEIVmJ09G3_bsZp-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="815.5" as="sourcePoint" />
+            <mxPoint x="380" y="765.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="N1Jp6rEIVmJ09G3_bsZp-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="635.5" as="sourcePoint" />
+            <mxPoint x="469.5" y="695.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-18" value="Mocked dependency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=2;container=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="805.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-19" value="Mocked dependency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=2;container=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="805.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.436;entryY=-0.029;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="N1Jp6rEIVmJ09G3_bsZp-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.5" y="725.5" as="sourcePoint" />
+            <mxPoint x="239.5" y="785.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.436;entryY=-0.029;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469.25" y="725.5" as="sourcePoint" />
+            <mxPoint x="470.75" y="803.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N1Jp6rEIVmJ09G3_bsZp-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="575.5" as="sourcePoint" />
+            <mxPoint x="240" y="605.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N1Jp6rEIVmJ09G3_bsZp-7" target="N1Jp6rEIVmJ09G3_bsZp-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="585.5" as="sourcePoint" />
+            <mxPoint x="250" y="615.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="555.5" as="sourcePoint" />
+            <mxPoint x="600" y="875.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="550" as="sourcePoint" />
+            <mxPoint x="130" y="875.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-27" value="Fonctionnal testing of hospital service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="665.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N1Jp6rEIVmJ09G3_bsZp-28" value="&lt;div&gt;Fonctionnal testing of &lt;br&gt;&lt;/div&gt;&lt;div&gt;distance calculation service&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="665.5" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
