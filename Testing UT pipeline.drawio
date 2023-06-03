@@ -1,32 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T03:56:17.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="HmFRvvkbpS9vNJaMkiHX" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T04:01:10.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="bmPf_xMT-2w7XIJokmqB" version="21.3.7" type="github">
   <diagram id="ht-V4iF29CH4IZI57DqI" name="Page-1">
     <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V4-uSTyftONZ9XiFdk4Q-6" value="Build application" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="520" y="80" width="150" height="50" as="geometry" />
+        <mxCell id="V4-uSTyftONZ9XiFdk4Q-6" value="Build application" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="510" y="120" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V4-uSTyftONZ9XiFdk4Q-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="V4-uSTyftONZ9XiFdk4Q-6" edge="1" source="9HSxOZsEsiPeGzIOGw9z-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="185" as="sourcePoint" />
-            <mxPoint x="514" y="184.70999999999998" as="targetPoint" />
+            <mxPoint x="470" y="225" as="sourcePoint" />
+            <mxPoint x="504" y="224.70999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9HSxOZsEsiPeGzIOGw9z-1" value="Integration tests" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="340" y="80" width="150" height="50" as="geometry" />
+        <mxCell id="9HSxOZsEsiPeGzIOGw9z-1" value="Integration tests" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="330" y="120" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bazzw9ZcE-L9x20bQyp1-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3dlOlV58bcQAHPRkIFv3-2" target="9HSxOZsEsiPeGzIOGw9z-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="195" as="sourcePoint" />
-            <mxPoint x="326" y="195" as="targetPoint" />
+            <mxPoint x="280" y="235" as="sourcePoint" />
+            <mxPoint x="316" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bazzw9ZcE-L9x20bQyp1-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3dlOlV58bcQAHPRkIFv3-2" target="9HSxOZsEsiPeGzIOGw9z-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3dlOlV58bcQAHPRkIFv3-2" value="Unit tests" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="170" y="80" width="140" height="50" as="geometry" />
+        <mxCell id="3dlOlV58bcQAHPRkIFv3-2" value="Unit tests" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="160" y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bazzw9ZcE-L9x20bQyp1-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.5" y="120" as="sourcePoint" />
+            <mxPoint x="230" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bazzw9ZcE-L9x20bQyp1-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406.5" y="120" as="sourcePoint" />
+            <mxPoint x="407" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bazzw9ZcE-L9x20bQyp1-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585.5" y="120" as="sourcePoint" />
+            <mxPoint x="586" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bazzw9ZcE-L9x20bQyp1-9" value="Rapport de tests unitaires" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bazzw9ZcE-L9x20bQyp1-10" value="Build de l&#39;application (.jar)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bazzw9ZcE-L9x20bQyp1-11" value="Rapport de tests d&#39;intégrations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="50" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
