@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2023-09-05T03:53:24.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="HGnkqgXlKI-2FBLBsUn6" version="21.7.2" type="github">
+  <diagram name="Page-1" id="BARYEIgrUGEw1FxIEYbJ">
+    <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yLmzy0hs43JzRnSXJG_1-1" value="&lt;div&gt;API gateway&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yLmzy0hs43JzRnSXJG_1-3" value="Hospital service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yLmzy0hs43JzRnSXJG_1-12" value="Security service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yLmzy0hs43JzRnSXJG_1-13" value="Service registry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="80" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yLmzy0hs43JzRnSXJG_1-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="yLmzy0hs43JzRnSXJG_1-1" target="yLmzy0hs43JzRnSXJG_1-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yLmzy0hs43JzRnSXJG_1-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" target="yLmzy0hs43JzRnSXJG_1-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="120" as="sourcePoint" />
+            <mxPoint x="510" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68z2NXDWmadGhMFCb6Af-1" value="Urgency service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="68z2NXDWmadGhMFCb6Af-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.875;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473.5" y="210" as="sourcePoint" />
+            <mxPoint x="474" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68z2NXDWmadGhMFCb6Af-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.875;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.5" y="210" as="sourcePoint" />
+            <mxPoint x="180" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68z2NXDWmadGhMFCb6Af-7" value="base de données hospital service" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="423.5" y="240" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="68z2NXDWmadGhMFCb6Af-8" value="base de données security service" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="240" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f8cgxQ1kJbbqm6bV8r7C-1" value="distance calculation service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f8cgxQ1kJbbqm6bV8r7C-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309.5" y="120" as="sourcePoint" />
+            <mxPoint x="309.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8cgxQ1kJbbqm6bV8r7C-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.5" y="120" as="sourcePoint" />
+            <mxPoint x="439.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8cgxQ1kJbbqm6bV8r7C-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.5" y="120" as="sourcePoint" />
+            <mxPoint x="569.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
