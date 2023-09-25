@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T07:25:55.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.8.2" etag="02q9widg-PPPRtEtXEGo" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T07:30:59.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="lf5Yd_ufajk6x3p1rKhB" version="21.8.2" type="github">
   <diagram name="Page-1" id="CAbEILbe2J_m1rkE2Spo">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="390" y="40" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-1" value="Apache (.httpAccess)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-2" value="Sites web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wo-9PSbxupMP9wIqe9bS-1" target="Wo-9PSbxupMP9wIqe9bS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-4" value="Composants back-end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="64" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-5" value="Composants front-end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="64" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wo-9PSbxupMP9wIqe9bS-5" target="Wo-9PSbxupMP9wIqe9bS-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="344" as="sourcePoint" />
+            <mxPoint x="410" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wo-9PSbxupMP9wIqe9bS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="90" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-9" value="&lt;div&gt;WebSonic&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="298" y="138" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wo-9PSbxupMP9wIqe9bS-12" value="&lt;div&gt;Client&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
