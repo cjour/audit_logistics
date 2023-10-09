@@ -1,29 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T07:45:07.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="2F1CbcZfBi1hjsrlTITo" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T08:47:04.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="VgUJ_IQ-gexVs-2ZELQu" version="22.0.4" type="github">
   <diagram name="Page-1" id="C_ZBUsKCrzRcflvogzkr">
     <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-15" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="360" y="32" width="305" height="198" as="geometry" />
-        </mxCell>
-        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" parent="fgNDAEqa44rRf3r6Z8Rh-15" vertex="1">
-          <mxGeometry width="300" height="198" as="geometry" />
-        </mxCell>
-        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-5" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="fgNDAEqa44rRf3r6Z8Rh-15" vertex="1">
-          <mxGeometry x="226.00428571428574" y="1" width="72.61904761904762" height="35.6" as="geometry" />
-        </mxCell>
-        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-16" value="Base de données confidentielles" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="fgNDAEqa44rRf3r6Z8Rh-15" vertex="1">
-          <mxGeometry x="25.71" y="100" width="110" height="81.55" as="geometry" />
-        </mxCell>
-        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-17" value="&lt;div&gt;Serveur web&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="fgNDAEqa44rRf3r6Z8Rh-15" vertex="1">
-          <mxGeometry x="150.00416666666666" y="49.62" width="108.38392857142857" height="33.37" as="geometry" />
-        </mxCell>
-        <mxCell id="vTtZLRvxT9cgvSloDH-Z-4" value="Espace disque pour données lourdes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fgNDAEqa44rRf3r6Z8Rh-15">
-          <mxGeometry x="150" y="129" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="q27LmW4uRz-Amyi7C36D-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="20" y="30" width="330" height="200" as="geometry" />
+          <mxGeometry x="20" y="30" width="370" height="230" as="geometry" />
         </mxCell>
         <mxCell id="q27LmW4uRz-Amyi7C36D-27" value="WebSonic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="259.99906976744194" y="32" width="88.48372093023256" height="32" as="geometry" />
@@ -46,25 +28,35 @@
             <mxPoint x="552.0041666666666" y="94.30499999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-19" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-19" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="61" y="40" as="sourcePoint" />
-            <mxPoint x="385.71000000000004" y="197.54999999999995" as="targetPoint" />
+            <mxPoint x="120" y="198" as="targetPoint" />
             <Array as="points">
               <mxPoint x="30" y="41" />
               <mxPoint x="30" y="198" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vTtZLRvxT9cgvSloDH-Z-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vTtZLRvxT9cgvSloDH-Z-4" target="q27LmW4uRz-Amyi7C36D-19">
+        <mxCell id="vTtZLRvxT9cgvSloDH-Z-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vTtZLRvxT9cgvSloDH-Z-4" target="q27LmW4uRz-Amyi7C36D-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="291" as="sourcePoint" />
             <mxPoint x="460" y="241" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="221" />
-              <mxPoint x="40" y="58" />
+              <mxPoint x="320" y="240" />
+              <mxPoint x="40" y="240" />
+              <mxPoint x="40" y="130" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-16" value="Base de données confidentielles" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="120" y="146.45" width="110" height="81.55" as="geometry" />
+        </mxCell>
+        <mxCell id="vTtZLRvxT9cgvSloDH-Z-4" value="Espace disque pour données lourdes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="168" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgNDAEqa44rRf3r6Z8Rh-17" value="&lt;div&gt;Serveur web&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260.00416666666666" y="80" width="108.38392857142857" height="33.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
