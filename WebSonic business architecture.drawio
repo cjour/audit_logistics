@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T11:32:31.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="lgICsk-u7FhnbNEyZBdb" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T11:34:57.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="DsGYfmEsd1Cbqu0vwvn4" version="22.1.4" type="github">
   <diagram name="Page-1" id="4aeB6z92RJJiPWzYteNc">
     <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,8 +221,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q0QJmNpemkyH0PjdIDK_-75" value="Mise à jour (selon demande client)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="382" y="810" width="226" height="30" as="geometry" />
+        <mxCell id="q0QJmNpemkyH0PjdIDK_-75" value="Mise à jour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382" y="810" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0QJmNpemkyH0PjdIDK_-77" value="&lt;div align=&quot;center&quot;&gt;Serveur web&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="42.89" y="480" width="93.11" height="30" as="geometry" />
