@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T09:39:18.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="dlSsgeeSoM_SWdPGh9pt" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T09:39:54.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="SZkgtiYNypXUMg4XSFwr" version="22.1.4" type="github">
   <diagram name="Page-1" id="4aeB6z92RJJiPWzYteNc">
     <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vtf_jzdpvrJgs_FeVq1o-31" value="Utilisateur final" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="745" y="450" width="30" height="60" as="geometry" />
+          <mxGeometry x="750" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vtf_jzdpvrJgs_FeVq1o-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -185,7 +185,7 @@
           <mxGeometry x="2" y="2" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtf_jzdpvrJgs_FeVq1o-30" value="Site web" style="rounded=0;whiteSpace=wrap;html=1;" parent="q0QJmNpemkyH0PjdIDK_-1" vertex="1">
-          <mxGeometry x="476" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="476" y="73" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vtf_jzdpvrJgs_FeVq1o-6" value="Templates" style="rounded=0;whiteSpace=wrap;html=1;" parent="q0QJmNpemkyH0PjdIDK_-1" vertex="1">
           <mxGeometry x="226" y="303" width="120" height="60" as="geometry" />
